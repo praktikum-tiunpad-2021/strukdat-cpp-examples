@@ -1,5 +1,5 @@
 #include <iostream>
-#include "forward_list.h"
+#include "forward_list.hpp"
 
 int main() {
   strukdat::ForwardList<int> l;

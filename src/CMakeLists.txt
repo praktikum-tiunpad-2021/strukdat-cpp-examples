@@ -1,4 +1,4 @@
-set(FORWARD_LIST_SRC forward_list.cpp forward_list.h)
+set(FORWARD_LIST_SRC forward_list.cpp forward_list.hpp)
 set(LIST_SRC)
 
 add_library(
