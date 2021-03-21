@@ -153,5 +153,6 @@ fabric.properties
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+build*/
 
 # End of https://www.toptal.com/developers/gitignore/api/clion,vscode,c++
