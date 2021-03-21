@@ -78,7 +78,7 @@ class ForwardList {
   // It is not supposed to be de-referenced and does not hold a value.
   Node *m_f_sentinel;
 
-  // Pointer to a hypothetical element _after_ the first element.
+  // Pointer to a hypothetical element _after_ the last element.
   // It is not supposed to be de-referenced and does not hold a value.
   Node *m_l_sentinel;
 
